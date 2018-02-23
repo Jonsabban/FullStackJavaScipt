@@ -1,0 +1,17 @@
+{
+  "name": "ClassDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tsFirstDemo.js",
+  "scripts": {
+    "demo1": "node build/tsFirstDemo.js",
+    "demo2": "node build/typeDemo.js",
+    "demo3": "node build/interFaceDemo.js",
+    "demo4": "node build/classDemo.js",
+    "demo5": "node build/funcDemo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
