@@ -34,4 +34,4 @@ var person2 = new Person("Ficko", "Ficko@Fake.email");
 var person3 = new Person("Ficko", "Ficko@Fake.email");
 console.log(person1);
 console.log(person3.getId);
-//# sourceMappingURL=c:/Users/Sanox/Documents/4-Semester/JavaScript/typeScript/ClassDemo/build/classDemo.js.map
+//# sourceMappingURL=d:/Programming/JavaScript/FullStackJavaScript/period_1/typeScript/ClassDemo/build/classDemo.js.map

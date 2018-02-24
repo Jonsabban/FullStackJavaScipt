@@ -1,0 +1,23 @@
+{
+  "name": "FullStackJavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonsabban/FullStackJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonsabban/FullStackJavaScript/issues"
+  },
+  "homepage": "https://github.com/Jonsabban/FullStackJavaScript#readme",
+  "dependencies": {
+    "@types/node-fetch": "^1.6.7"
+  }
+}

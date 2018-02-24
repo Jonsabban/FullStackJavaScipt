@@ -29,4 +29,4 @@ if (skill === skills.Low) {
 if (skill === skills.High) {
 }
 ;
-//# sourceMappingURL=c:/Users/Sanox/Documents/4-Semester/JavaScript/typeScript/ClassDemo/build/typeDemo.js.map
+//# sourceMappingURL=d:/Programming/JavaScript/FullStackJavaScript/period_1/typeScript/ClassDemo/build/typeDemo.js.map
