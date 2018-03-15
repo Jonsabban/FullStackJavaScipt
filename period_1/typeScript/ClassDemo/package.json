@@ -9,6 +9,7 @@
     "demo3": "node build/interFaceDemo.js",
     "demo4": "node build/classDemo.js",
     "demo5": "node build/funcDemo.js",
+    "exercise": "node build/typeScriptExercises.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
