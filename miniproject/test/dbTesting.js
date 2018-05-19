@@ -101,5 +101,5 @@ describe("Testing dbFacade", function () {
             expect(friend2.length).to.be.equal(1);
         })
     })
-
+    
 });

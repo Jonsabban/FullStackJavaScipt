@@ -40,8 +40,12 @@ var getAllUsers = function () {
     return User.find({}).exec();
 }
 
+var getAllLocations = function () {
+    return Location.find({}).exec();
+}
+
 var getUserByUserName = function (username) {
-    return User.findOne({ userName: username }).exec();
+    return User.findOne({ firstName: username }).exec();
 }
 
 var getLocationByInfo = function (info) {
