@@ -1,16 +1,6 @@
 # Period 1
 ## Vanilla JavaScript, es2015/15.., Node.js, Babel + Webpack and TypeScript
 
-### Relevant projects:
-- [Vanilla Javascript](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/JavaScriptExercises)
-- [Promises](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/PromisesExercise)
-- [Async/await](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/Async_functions)
-- [es2015](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/es2015_exercises)
-- [Webpacks](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/webpackExercise)
-- [TypeScript](https://github.com/cph-an178/FullStack-JavaScript/tree/master/Period1/typescript_exercise)
-
----
-
 ## Explain and Reflect:
 >Explain differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
 
