@@ -27,11 +27,11 @@ input userInput {
 
 type Query {
   getAllUsers : [User]
-  getUserByUserName(firstName: String) : [User]
+  getUserByUserName(username: String) : User
 }
 
 type Mutation {
-  addUser(input: userInput) : [User]
+  addUser(input: userInput) : User
 }
 
 `

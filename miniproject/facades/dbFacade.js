@@ -45,7 +45,7 @@ var getAllLocations = function () {
 }
 
 var getUserByUserName = function (username) {
-    return User.findOne({ firstName: username }).exec();
+    return User.findOne({ userName: username }).exec();
 }
 
 var getLocationByInfo = function (info) {
